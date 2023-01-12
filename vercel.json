@@ -1,7 +1,7 @@
 {
   "headers": [
     {
-      "source": "/.well-known/nostr.json",
+      "source": "/(.*)",
       "headers": [
         { "key": "Content-Type", "value": "application/json" },
         { "key": "Access-Control-Allow-Credentials", "value": "true" },
