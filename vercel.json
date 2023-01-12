@@ -8,9 +8,6 @@
                     "value": "*"
                 },
                 {
-                    "key": "Access-Control-Allow-Methods",
-                    "value": "*"
-                },
                     "key": "Content-Type",
                     "value": "application/json"
                 }
