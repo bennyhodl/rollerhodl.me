@@ -1,6 +1,6 @@
 {
     "source": "/.well-known/nostr.json",
-    "header": : [
+    "headers": : [
         {
             "key": "Access-Control-Allow-Origin",
             "value": "*"
